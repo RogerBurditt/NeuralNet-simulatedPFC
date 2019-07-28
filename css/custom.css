@@ -1,0 +1,25 @@
+body{
+  background-color: #000000;
+}
+#NetworkView{
+  background-color: #0a0908;
+  float:left;
+  width:600px;
+  height:400px;
+  text-align: left;
+  outline: solid 4px;
+  outline-color: #adb2d3;
+  margin-left: 5px;
+  overflow: auto;
+}
+#GameView{
+  background-color: #0a0908;
+  float:right;
+  width:600px;
+  height:400px;
+  text-align: left;
+  outline: solid 4px;
+  outline-color: #adb2d3;
+  margin-left: 5px;
+  overflow: auto;
+}
